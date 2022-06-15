@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0168: 변수가 선언되었지만 사용되지 않았습니다.
+dotnet_diagnostic.CS0168.severity = none
